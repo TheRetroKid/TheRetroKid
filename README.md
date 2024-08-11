@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheRetroKid
 - 👀 I’m interested in video game development and chiptune music.
-- 🌱 I’m currently learning GBStudio and GameMaker Language, a little bit of Python too.
+- 🌱 I’m currently learning GBStudio and Godot, a little bit of Python too.
 - 📫 How to reach me: You can find me on Discord and Gamejolt under the username @retrokid104.
 - 😄 Pronouns: he/him
 - 🕹️ Most of my repositories are private. Currently don't have enough done to share, but maybe someday! 
