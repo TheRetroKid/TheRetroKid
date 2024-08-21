@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheRetroKid
+- 👋 Hi, I’m Davis. Welcome to my little code cove.
 - 👀 I’m interested in video game development and chiptune music.
 - 🌱 I’m currently learning GBStudio and Godot, a little bit of Python too.
 - 📫 How to reach me: You can find me on Discord and Gamejolt under the username @retrokid104.
