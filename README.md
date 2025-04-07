@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Retro!
 - 👀 I’m interested in video game development and chiptune music.
-- 🌱 I’m currently learning NESFab language and GML.
+- 🌱 I’m currently learning NESFab language and GML, as well as GBStudio
 - 📫 How to reach me: You can find me on Discord and Gamejolt under the username @retrokid104.
 - 😄 Pronouns: he/him
 - 🕹️ Most of my repositories are private. Currently don't have enough done to share, but maybe someday!
